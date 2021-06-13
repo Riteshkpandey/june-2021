@@ -1,6 +1,6 @@
 /*
 
- * Defnition for a binary tree node.
+ * Defniion for a binary tree node.
  * public class TreeNode {
  *     int val;
  *     TreeNode left;
