@@ -12,6 +12,7 @@ class Solution {
         if(lists.length==0) return null;
         if(lists.length==1) return lists[0];
         ListNode head=merge(lists[0],lists[1]);
+        
         for(int i=2;i<lists.length;i++)
         {
             head=merge(head,lists[i]);
