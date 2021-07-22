@@ -28,6 +28,7 @@ class Solution {
                 firstx.next=head;
                 firstx=firstx.next;
             }
+            
             else
                 {
                 secondx.next=head;
