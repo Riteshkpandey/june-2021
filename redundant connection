@@ -6,3 +6,4 @@ function find(x):
 function union(x, y):
     parent[find(x)] = find(y)
 
+
